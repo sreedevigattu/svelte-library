@@ -40,5 +40,5 @@
     Go home, and share them with your family
 </p>
 
-<Button>Add Book</Button>
-<BookGrid books={books} />
+<Button to="/create">Add Book</Button>
+<BookGrid {books} />

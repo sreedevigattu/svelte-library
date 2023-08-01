@@ -22,7 +22,8 @@
       "author": "John Steinbeck",
       "cover": "",
       "about": "Thousands set out from the dust bowl to California in search of better fortunes",
-      "variation": 2
+      "variation": 2,
+      "favorite": false
     },
     {
       "id": 4,
@@ -30,7 +31,8 @@
       "author": "Harper Lee",
       "cover": "https://i.imgur.com/BPmn7bUm.jpg",
       "about": "A girl learns to trust the wisdom of her father and not be dismayed by the prejudice around here.",
-      "variation": 0
+      "variation": 0,
+      "favorite": true
     },
     {
       "id": 5,
@@ -39,7 +41,15 @@
       "cover": "",
       "about": "Man hunts whale with a vengeance. In the end, he's the last man stand. I guess he won.",
       "variation": 1
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "cover": "https://m.media-amazon.com/images/I/51nU43m4mUL._AC_UF1000,1000_QL80_.jpg",
+      "about": "It's just a small story, really, about among other things: a girl, some words, an accordionist, a Jewish fist fighter, and quite a lot of thievery ...'\n\nNarrated in the all-knowing matter-of-fact voice of Death, witnessing the story of the citizens of Molching:\n\nWhen nine-year-old Liesel arrives outside the boxlike house of her new foster parents at 33 Himmel Street, she refuses to get out of the car. Liesel has been separated from her parents - 'Kommunists' - for ever, and at the burial of her little brother, she steals a gravedigger's instruction manual which she can't read. It is the beginning of her illustrious career.\n\nIn the care of the Hubermans, Liesel befriends blond-haired Rudy Steiner, her neighbour obsessed with Jesse Owens, and the mayor's wife, who hides from despair in her library. Together Liesel and Rudy steal books - from Nazi book burning piles, from the mayor's library, from the rich people for whom her fostermother does the ironing. In time, they take in a Jewish boxer, Max, who reads with Liesel in the basement.\n.\nBy 1943, the Allied bombs are falling, and the sirens begin to wail. Liesel shares out her books in the air-raid shelters. But one day in the life of Himmel street, the wail of the sirens comes too late ...\n\nA life-changing tale of the cruel twists of fate and the coincidences on which all our lives hinge, this is also a joyous look at how books can nourish the soul. Its uplifting ending will make all listeners weep.",
+      "variation": 0,
+      "favorite": false,
+      "id": 6
     }
   ]
 }
-
